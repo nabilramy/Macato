@@ -36,7 +36,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 
 
-### User who is a chef :male-cook: 
+### User who is a chef 👩‍🍳
 - The user can see a list of the current orders and reply to them with the needed details.
 - The user can make updates on the menu and offers continuously.
 - The user can make feedback after finishing dealing with the customer.
