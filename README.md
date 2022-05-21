@@ -1,11 +1,8 @@
-# Macato
-Macato allows users to hire a personal chef to come and cook for them at home instantly through its online platform.
+# **Macato Sprint Plan** :runner: 
 
-## **Macato Sprint Plan** :runner: 
-
-### **Sprint 1**  *`(6 Issues)`*
+## **Sprint 1**  *`(7 Issues)`*
 ###### Duration: *May 22 - June 5* 
-> Adding registering/logging in.<br>
+> Adding registering/logging in.
 > Adding booking order features. 
 
 -  As a new user, I want to be able to register by creating an account with my email and password, so I can log in to the application.
@@ -13,9 +10,10 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 -  As a logged-in user, I want to be able to log out of my account from the application, so I can end my session.
 -  As a customer, I want to be able to see the menu and needed ingredients for every cuisine, so I can know if it suits me or not.
 -  As a customer, I want to be able to check out an order with details (dates, address, number of guests ...etc), so I can get the application-provided service.
+-   As an administrator, I want to be able to add, edit and delete the cuisines, so the cuisines can be available  as mentioned all time.
 -  As an administrator, I want to be able to see a list of the booking orders, so I can reply to them with the instructions (Cooking equipment and ingredients required, Link to a guest invitation, Chef arrival and departure time).
 
-### **Sprint 2**  *`(4 Issues)`*
+## **Sprint 2**  *`(4 Issues)`*
 ###### Duration: *June 6 - June 20*
 > Adding additional user and chef features.
 
@@ -26,7 +24,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 <br>
 
-## **User Journey** :pencil2: 
+# **User Journey** :pencil2: 
 ### User who wants to hire a chef :man:
 - The user will see the menu of cuisines and discounts and offers for each if exists.
 - By clicking on the cuisine the user will move to its page for more information and to book it if he wants.
@@ -43,5 +41,5 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 <br>
 
-## **User Flow** :bar_chart: 
+# **User Flow** :bar_chart: 
 ![](https://i.imgur.com/DLKAWZV.png)
