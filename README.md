@@ -2,7 +2,7 @@
 
 ## **Sprint 1**  *`(7 Issues)`*
 ###### Duration: *May 22 - June 5* 
-> Adding registering/logging in.
+> Adding registering/logging in.<br>
 > Adding booking order features. 
 
 -  As a new user, I want to be able to register by creating an account with my email and password, so I can log in to the application.
